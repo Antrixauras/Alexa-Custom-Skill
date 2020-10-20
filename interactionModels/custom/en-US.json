@@ -1,0 +1,126 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "divergent factions",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "FactionInfoIntent",
+          "slots": [],
+          "samples": [
+            "nope",
+            "change it",
+            "i have to change my faction",
+            "did\u0027nt get it",
+            "no",
+            "anything to say",
+            "what is faction",
+            "different factions in divergent",
+            "where i belong",
+            "types of faction",
+            "faction",
+            "what is divergent",
+            "faction of divergent"
+          ]
+        },
+        {
+          "name": "BraveIntent",
+          "slots": [],
+          "samples": [
+            "i guess brave",
+            "what about brave",
+            "maybe brave",
+            "i am brave",
+            "the brave"
+          ]
+        },
+        {
+          "name": "KindIntent",
+          "slots": [],
+          "samples": [
+            "kind i guess",
+            "i am more of a kind person",
+            "i am kind",
+            "the kind",
+            "maybe kind",
+            "i guess kind",
+            "kind"
+          ]
+        },
+        {
+          "name": "IntelligentIntent",
+          "slots": [],
+          "samples": [
+            "intelligent i guess",
+            "intelligent maybe",
+            "i more more of an intelligent person",
+            "i think intelligent",
+            "i guess intelligent",
+            "maybe intelligent",
+            "i am intelligent",
+            "intelligent"
+          ]
+        },
+        {
+          "name": "SelflessIntent",
+          "slots": [],
+          "samples": [
+            "selfless",
+            "i guess selfless",
+            "what is selfless",
+            "maybe selfless",
+            "i am selfless"
+          ]
+        },
+        {
+          "name": "HonestIntent",
+          "slots": [],
+          "samples": [
+            "honesty",
+            "i guess honest",
+            "maybe honest",
+            "honest",
+            "i am honest"
+          ]
+        },
+        {
+          "name": "YesIntent",
+          "slots": [],
+          "samples": [
+            "yess",
+            "i am divergent ",
+            "yes i am ready",
+            "i am ready",
+            "yes"
+          ]
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "12"
+}
